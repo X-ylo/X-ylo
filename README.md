@@ -35,6 +35,8 @@
 ![Vue.js](https://img.shields.io/badge/Vue.js-ffffff?style=flat-square&logo=vuedotjs&logoColor=black)
 ![Angular](https://img.shields.io/badge/Angular-ffffff?style=flat-square&logo=angular&logoColor=black)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind-ffffff?style=flat-square&logo=tailwind-css&logoColor=black)
+![shadcn/ui](https://img.shields.io/badge/shadcn/ui-ffffff?style=flat-square&logo=shadcnui&logoColor=black)
+
 
 **Backend & Cloud**  
 ![NodeJS](https://img.shields.io/badge/Node.js-ffffff?style=flat-square&logo=node.js&logoColor=black)
