@@ -46,6 +46,7 @@
 ![Laravel](https://img.shields.io/badge/Laravel-ffffff?style=flat-square&logo=laravel&logoColor=black)
 ![MongoDB](https://img.shields.io/badge/MongoDB-ffffff?style=flat-square&logo=mongodb&logoColor=black)
 ![MySQL](https://img.shields.io/badge/MySQL-ffffff?style=flat-square&logo=mysql&logoColor=black)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-ffffff?style=flat-square&logo=postgresql&logoColor=black)
 ![Docker](https://img.shields.io/badge/Docker-ffffff?style=flat-square&logo=docker&logoColor=black)
 ![AWS](https://img.shields.io/badge/AWS-ffffff?style=flat-square&logo=amazon-aws&logoColor=black)
 ![Supabase](https://img.shields.io/badge/Supabase-ffffff?style=flat-square&logo=supabase&logoColor=black)
