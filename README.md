@@ -62,6 +62,14 @@
 ![Swift](https://img.shields.io/badge/Swift-ffffff?style=flat-square&logo=swift&logoColor=black)
 ![Kotlin](https://img.shields.io/badge/Kotlin-ffffff?style=flat-square&logo=kotlin&logoColor=black)
 
+**Tools**  
+![Git](https://img.shields.io/badge/Git-ffffff?style=flat-square&logo=git&logoColor=black)
+![GitHub](https://img.shields.io/badge/GitHub-ffffff?style=flat-square&logo=github&logoColor=black)
+![Figma](https://img.shields.io/badge/Figma-ffffff?style=flat-square&logo=figma&logoColor=black)
+![VS Code](https://img.shields.io/badge/VS_Code-ffffff?style=flat-square&logo=visual-studio-code&logoColor=black)
+![Cursor](https://img.shields.io/badge/Cursor-ffffff?style=flat-square)
+![Antigravity](https://img.shields.io/badge/Antigravity-ffffff?style=flat-square)
+
 <br>
 <div align="center">
   <i>Let's turn your ideas into reality!</i>
