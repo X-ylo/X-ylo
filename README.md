@@ -57,3 +57,6 @@
 <div align="center">
   <i>Let's turn your ideas into reality!</i>
 </div>
+
+<br>
+<img src="bw-line.svg" alt="Animated Line" width="100%" />
