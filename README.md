@@ -50,8 +50,6 @@
 ![AWS](https://img.shields.io/badge/AWS-ffffff?style=flat-square&logo=amazon-aws&logoColor=black)
 ![Supabase](https://img.shields.io/badge/Supabase-ffffff?style=flat-square&logo=supabase&logoColor=black)
 ![Firebase](https://img.shields.io/badge/Firebase-ffffff?style=flat-square&logo=firebase&logoColor=black)
-![Railway](https://img.shields.io/badge/Railway-ffffff?style=flat-square&logo=railway&logoColor=black)
-![Render](https://img.shields.io/badge/Render-ffffff?style=flat-square&logo=render&logoColor=black)
 
 **Mobile**  
 ![Android](https://img.shields.io/badge/Android-ffffff?style=flat-square&logo=android&logoColor=black)
