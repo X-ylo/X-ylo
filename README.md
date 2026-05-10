@@ -1,6 +1,4 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=ffffff&height=250&section=header&text=John%20Viray&fontSize=80&animation=fadeIn&fontAlignY=35&desc=Fullstack%20Developer%20&descAlignY=55&descAlign=50&fontColor=000000" alt="John Viray Header" />
-  
   <h3>Hey there! I'm John Viray (jvrycode)</h3>
   <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=20&pause=1000&color=ffffff&center=true&vCenter=true&width=600&lines=Versatile+Fullstack+Developer;Building+AI-Driven+Systems;Creating+Scalable+Architecture" alt="Typing SVG" />
   
