@@ -55,5 +55,5 @@
 
 <br>
 <div align="center">
-  <i>Let's turn your ideas to reality!</i>
+  <i>Let's turn your ideas into reality!</i>
 </div>
