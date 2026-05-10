@@ -13,9 +13,10 @@
 
 ### About Me
 
-- **Status:** Available for Freelance, Part-time, and Full-time opportunities
-- **Focus:** I develop scalable and maintainable software solutions, emphasizing performance, clean architecture, and seamless integration of modern AI technologies.
-- **What I do:** AI Integrated Workflows, Building in Hackathons, Networking in Tech Communities.
+- **Background:** I'm a passionate Full-Stack Developer with over 3 years of hands-on experience building dynamic web and mobile applications from the ground up.
+- **Focus:** I specialize in developing scalable, maintainable software solutions, with a strong emphasis on clean architecture, high performance, and the seamless integration of modern AI technologies.
+- **Status:** Currently available for Freelance, Part-time, and Full-time opportunities where I can make an immediate impact.
+- **What I do:** Beyond standard development, I actively build AI-integrated workflows, compete in hackathons, and continuously network within the global tech community to stay at the bleeding edge.
 
 ---
 
